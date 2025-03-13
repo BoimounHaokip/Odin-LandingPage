@@ -1,5 +1,7 @@
 # Odin-LandingPage
 
+The pictures in this project is by,
+
 veg1.jpg: by Katya_Ershova
 
 veg2.jpg: by RitaE
